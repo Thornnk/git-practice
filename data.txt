@@ -1,0 +1,3 @@
+Name: Hector
+Age: 32
+Favorite color: Black
